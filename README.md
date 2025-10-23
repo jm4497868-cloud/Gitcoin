@@ -43,7 +43,10 @@ Result: a repo that looks like it does something important.
 📡 Proof of Tek
 
 Don’t believe me?
+
 Check out our GitHub — where the magic of randomness meets overconfidence.
+
+<img width="268" height="110" alt="image" src="https://github.com/user-attachments/assets/5210f6bf-38cd-4d80-98bb-e1c0e2fb89d3" />
 
 🔗 Visit the GitHub (totally real link)
 
